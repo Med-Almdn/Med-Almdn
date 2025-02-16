@@ -1,3 +1,5 @@
+![Black Banner](https://github.com/user-attachments/assets/7f4a11f7-4efc-4d33-b440-4b266470ba02)
+
 # 💫 About Me:
 👋 Hey, I’m a Computer Science Student and Software Developer with a passion for AI, IoT, and building impactful systems. <br>🤖 I enjoy creating smart, scalable solutions to solve real-world problems. <br>🚀 Currently exploring machine learning and pushing the limits of technology. <br>🌱 Always open to collaborations and exciting projects.<br>⚡Fun fact: I enjoy photography and capturing moments of everyday life! 📸
 
