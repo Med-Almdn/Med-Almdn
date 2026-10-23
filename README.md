@@ -1,6 +1,6 @@
 ![Black_Banner](https://github.com/user-attachments/assets/37592607-59cd-46a2-a903-3cf5301a5f75)
 
-# 💫 About Me:
+# 💫 About Me (Reda):
 👋 Hey, I’m a Computer Science Student and Software Developer with a passion for AI, IoT, and building impactful systems. <br>🤖 I enjoy creating smart, scalable solutions to solve real-world problems. <br>🚀 Currently exploring machine learning and pushing the limits of technology. <br>🌱 Always open to collaborations and exciting projects.<br>⚡Fun fact: I enjoy photography and capturing moments of everyday life! 📸
 
 
